@@ -9,11 +9,15 @@ I work primarily in Javascript/Typescript and Python, but I'm also learning C#/.
 I'm passionate about open-source software, and use it as often as I possibly can. I love tinkering, and 
 have built a NAS — hardware included — with Debian, docker, and free and open-source software.
 
-You can find me on Bluseky: [@bburgesskeys.bsky.social](https://bsky.app/profile/bburgesskeys.bsky.social). 
+You can find me on Bluseky ([@bburgesskeys.bsky.social](https://bsky.app/profile/bburgesskeys.bsky.social)) 
+or LinkedIn ([in/bburgesskeys](https://www.linkedin.com/in/bburgesskeys). 
 Feel free to reach out!
 
 ### My work
 
+- `tsk`: a cross-platform CLI task management app in C#/.NET
+  - [github](https://github.com/bradleyburgess/tsk)
+  - [blog post](https://dev.bradley-burgess.com/blog/what-i-learned-from-building-my-first-csharp-dotnet-project)
 - `img-figcaptions`: a Node package for automatically adding `<figcaption>`s to images
   - [github](https://github.com/bradleyburgess/img-figcaptions)
 - `eleventy-plugin-broken-links`: an 11ty plugin to check for broken external links
