@@ -9,8 +9,12 @@ I work primarily in Javascript/Typescript and Python, but I'm also learning C#/.
 I'm passionate about open-source software, and use it as often as I possibly can. I love tinkering, and 
 have built a NAS — hardware included — with Debian, docker, and free and open-source software.
 
-You can find me on Bluseky ([@bburgesskeys.bsky.social](https://bsky.app/profile/bburgesskeys.bsky.social)) 
+I have a [dev website](https://dev.bradley-burgess.com) and a [music website](https://music.bradley-burgess.com). 
+On my dev site you can find my projects and my blog; on my music site you can find recordings, videos and more. 
+
+You can also find me on Bluseky ([@bburgesskeys.bsky.social](https://bsky.app/profile/bburgesskeys.bsky.social)) 
 or LinkedIn ([in/bburgesskeys](https://www.linkedin.com/in/bburgesskeys). 
+
 Feel free to reach out!
 
 ### My work
